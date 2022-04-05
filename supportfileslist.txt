@@ -1,0 +1,8 @@
+these are support files:
+1.actioneditdetails.php
+2.deletecourse.php
+3.logout.php
+4.newcourse.php
+5.redirect.php
+6.removevideo.php
+7.uploadfile.php
