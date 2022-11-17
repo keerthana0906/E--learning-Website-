@@ -10,7 +10,7 @@ https://web.stanford.edu/class/cs273a/cgi-bin/ -->
 # Bio Informatics   
 
 ## Course List
-S.No | Course Title | Link to course
+**S.No** | **Course Title** | **Link to course**
 ------------ | ------------- | ---------
 1 | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
 2 | Computatinal Genomics | https://web.stanford.edu/class/cs262/cgi-bin/index.php
@@ -19,7 +19,7 @@ S.No | Course Title | Link to course
 ## Course Details
 ### 1. Computational Systems Biology : Deep Learning in Life Sciences
    * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://mit6874.github.io/ 
-   * **Offered by** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; MIT 
+   * **Offered by** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; MIT 
    * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability,   
                                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Introductory molecular biology
    * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Advanced
@@ -31,7 +31,11 @@ S.No | Course Title | Link to course
         challenging problems, first in problem sets that span a carefully chosen set of tasks,and then in an independent project. Students will    
         program using Python 3 and TensorFlow 2 in Jupyter Notebooks, a nod to the importance of carefully documenting your work so it can be    
         precisely reproduced by others.
-
+        
+       
+       
+#### _Happy Learning _  :memo:
+:pencil:
 
 
 
