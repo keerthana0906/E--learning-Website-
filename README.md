@@ -28,7 +28,7 @@ https://web.stanford.edu/class/cs273a/cgi-bin/ -->
         
        
        
-####  Happy Learning  &nbsp; &nbsp; &nbsp; :thumbsup: :memo: 
+####  Happy Learning  &nbsp; :thumbsup: :memo: 
 
 
 
