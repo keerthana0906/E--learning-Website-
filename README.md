@@ -18,12 +18,12 @@ S.No | Course Title | Link to course
 
 ## Course Details
 ### 1. Computational Systems Biology : Deep Learning in Life Sciences
-        * Link to course          :   https://mit6874.github.io/ 
-        * Offered by              :   MIT 
-        * Pre-Requisites          :   Calculus, Linear Algebra, Python programming,Probability,   
+        * **Link to course**          :   https://mit6874.github.io/ 
+        * **Offered by**              :   MIT 
+        * **Pre-Requisites**          :   Calculus, Linear Algebra, Python programming,Probability,   
                                       Introductory molecular biology
-        * Level                   :   Advanced
-        * Course description 
+        * **Level**                   :   Advanced
+        * **Course description** 
              This course introduces foundations and state-of-the-art machine learning challenges    
              in genomics and the life sciences more broadly. We introduce both deep learning and    
              classical machine learning approaches to key problems, comparing and contrasting their   
