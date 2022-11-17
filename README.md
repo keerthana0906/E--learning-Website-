@@ -13,11 +13,23 @@ https://web.stanford.edu/class/cs273a/cgi-bin/ -->
 **S.No** | **Course Title** | **Link to course**
 ------------ | ------------- | ---------
 [1](#computational-systems-biology-deep-learning-in-life-sciences) | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
-2 | Computatinal Genomics | https://web.stanford.edu/class/cs262/cgi-bin/index.php
+[2](#computational-genomics) | Computatinal Genomics | https://web.stanford.edu/class/cs262/cgi-bin/index.php
 
 
 ## Course Details
 ### 1. Computational Systems Biology Deep Learning in Life Sciences
+   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://mit6874.github.io/ 
+   * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; MIT 
+   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability,   
+                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Introductory molecular biology
+   * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Advanced
+   * **Course description**    
+        This course introduces foundations and state-of-the-art machine learning challenges in genomics and the life sciences more broadly. We introduce both deep learning and classical machine learning approaches to key problems, comparing and contrasting their power and limitations. We seek to enable students to evaluate a wide variety of solutions to key problems we face in this rapidly developing field, and to execute on new enabling solutions that can have large impact. As part of the subject students will implement solutions to challenging problems, first in problem sets that span a carefully chosen set of tasks, and then in an independent project. Students will program using Python 3 and TensorFlow 2 in Jupyter Notebooks, a nod to the importance of carefully documenting your work so it can be precisely reproduced by others.
+ 
+
+
+## Course Details
+### 2. Computational Genomics
    * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://mit6874.github.io/ 
    * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; MIT 
    * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability,   
