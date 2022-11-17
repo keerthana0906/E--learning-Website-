@@ -15,13 +15,6 @@ S.No | Course Title | Link to course
 1 | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
 2 | Computatinal Genomics | https://web.stanford.edu/class/cs262/cgi-bin/index.php
 
-S.No    | Course Title | Center align 
----------- | --------- | ----------
-1 | 9999999999 | 9999999999   
-2  | 999999999  | 999999999    
-3   | 99999999   | 99999999     
-4   | 9999999    | 9999999     
-
 
 ## Course Details
 ### 1. Computational Systems Biology : Deep Learning in Life Sciences
