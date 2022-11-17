@@ -1,7 +1,7 @@
-# E--learning-Website-
+<!-- # E--learning-Website-
 Done as a part if DBMS course project
 
-<!-- For bioinformatics we will be following stanford courses.
+For bioinformatics we will be following stanford courses.
 
 https://web.stanford.edu/class/cs262/cgi-bin/index.php
 
@@ -28,7 +28,7 @@ https://web.stanford.edu/class/cs273a/cgi-bin/ -->
         
        
        
-####  Happy Learning  :memo:
+####  Happy Learning  &nbsp; &nbsp; &nbsp; :thumbsup: :memo: 
 
 
 
