@@ -18,7 +18,7 @@ S.No | Course Title | Link to course
 
 ## Course Details
 ### 1. Computational Systems Biology : Deep Learning in Life Sciences
-   * **Link to course**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp; https://mit6874.github.io/ 
+   * **Link to course**<\t>:&nbsp;&nbsp; https://mit6874.github.io/ 
    * **Offered by**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;MIT 
    * **Pre-Requisites**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp; Calculus, Linear Algebra, Python programming,Probability,   
                                      Introductory molecular biology
