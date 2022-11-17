@@ -31,7 +31,8 @@ S.No | Course Title | Link to course
              solutions that can have large impact. As part of the subject students will implement solutions    
              to challenging problems, first in problem sets that span a carefully chosen set of tasks,    
              and then in an independent project. Students will program using Python 3 and TensorFlow 2    
-             in Jupyter Notebooks, a nod to the importance of carefully documenting your work so it can be precisely reproduced by others.
+             in Jupyter Notebooks, a nod to the importance of carefully documenting your work so it can be   
+             precisely reproduced by others.
 
 
 
