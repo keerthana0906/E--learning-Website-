@@ -21,7 +21,7 @@ S.No | Course Title | Link to course
    * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; https://mit6874.github.io/ 
    * **Offered by** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;&nbsp;MIT 
    * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;&nbsp; Calculus, Linear Algebra, Python programming,Probability,   
-                                     Introductory molecular biology
+                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Introductory molecular biology
    * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :&nbsp;&nbsp;Advanced
    * **Course description**    
         This course introduces foundations and state-of-the-art machine learning challenges    
