@@ -12,12 +12,12 @@ https://web.stanford.edu/class/cs273a/cgi-bin/ -->
 ## Course List
 **S.No** | **Course Title** | **Link to course**
 ------------ | ------------- | ---------
-[1](#computational-systems-biology-:-deep-learning-in-life-sciences) | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
+[1](#computational-systems-biology-deep-learning-in-life-sciences) | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
 2 | Computatinal Genomics | https://web.stanford.edu/class/cs262/cgi-bin/index.php
 
 
 ## Course Details
-### 1. Computational Systems Biology : Deep Learning in Life Sciences
+### 1. Computational Systems Biology Deep Learning in Life Sciences
    * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://mit6874.github.io/ 
    * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; MIT 
    * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability,   
