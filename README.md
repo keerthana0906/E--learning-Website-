@@ -1,59 +1,57 @@
 <!-- # E--learning-Website-
-Done as a part if DBMS course project
+Done as a part if DBMS course project-->
 
-For bioinformatics we will be following stanford courses.
+<!-- For computer vision we will be following the below courses form stanford.
 
-https://web.stanford.edu/class/cs262/cgi-bin/index.php
+http://vision.stanford.edu/teaching/cs131_fall1819/syllabus.html
 
-https://web.stanford.edu/class/cs273a/cgi-bin/ -->
+http://cs231n.github.io/
 
-<!-- # E--learning-Website-
-Done as a part if DBMS course project
+We added some previous assignments and soultions for these courses. -->
 
-For bioinformatics we will be following stanford courses.
-
-https://web.stanford.edu/class/cs262/cgi-bin/index.php
-
-https://web.stanford.edu/class/cs273a/cgi-bin/ -->
-
-# Bio Informatics   
+# Computer Vision
 
 ## Course List
-**S.No** | **Course Title** | **Link to course**
+**S.No** | **Course Title** | **Link to course** | **Link to Assignment Solutions**
 ------------ | ------------- | ---------
-[1](#1-computational-systems-biology--deep-learning-in-life-sciences) | Computational Systems Biology : Deep Learning in Life Sciences | https://mit6874.github.io/ 
-[2](#2-computational-genomics) | Computatinal Genomics | https://web.stanford.edu/class/cs262/
-[3](#3-the-human-genome-source-code) | The Human Genome Source Code | https://web.stanford.edu/class/cs273a/
+[1](#1-computer-vision--foundations-and-applications) | Computer Vision: Foundations and Applications | http://vision.stanford.edu/teaching/cs131_fall2122/ | [CS131 Solutions](https://github.com/StanfordVL/CS131_release)
+[2](#2-deep-learning-for-computer-vision) | Deep Learning for Computer Vision | http://cs231n.stanford.edu/ | [CS231 Solutions](https://github.com/mantasu/cs231n)
+<!-- [3](#3-computer-vision) | Computer Vision | https://faculty.cc.gatech.edu/~hays/compvision/ |  -->
 
 ## Course Details
-### 1. Computational Systems Biology : Deep Learning in Life Sciences
-   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://mit6874.github.io/ 
-   * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; MIT 
-   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability,   
-                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Introductory molecular biology
-   * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Advanced
-   * **Course description**    
-        This course introduces foundations and state-of-the-art machine learning challenges in genomics and the life sciences more broadly. The course introduces both deep learning and classical machine learning approaches to key problems, comparing and contrasting their power and limitations.
- 
-
-### 2. Computational Genomics
-   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://web.stanford.edu/class/cs262/
+### 1. Computer Vision: Foundations and Applications
+   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; http://vision.stanford.edu/teaching/cs131_fall2122/
    * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; Stanford 
-   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Design and Analysis of Algorithms  
-   * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Intermediate
-   * **Course description**    
-        Genomics is a new and very active application area of computer science. Computer science is playing a central role in genomics: from sequencing and assembling of DNA sequences to analyzing genomes in order to locate genes, similarities between sequences of different organisms, and several other applications. This course aims to present some of the most basic and useful algorithms for sequence analysis, together with the minimal biological background. Sequence alignments, hidden Markov models, multiple alignment algorithms and heuristics such as Gibbs sampling, and the probabilistic interpretation of alignments will be covered.        
-
-
-### 3. The Human Genome Source Code
-   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://web.stanford.edu/class/cs273a/
-   * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; Stanford 
-   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Programming Experience in any language  
+   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp;  Calculus, Linear Algebra, Python programming,Probability, Statistics  
+                                     <!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Introductory molecular biology -->
    * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Beginner
    * **Course description**    
-        The course introduces you to various aspects of genomic data . The course covers Population genomics & paternity testing, Medical AI (disease) genomics  and Comparative (evolutionary) genomics and maybe a dash of cryptogenomics and genomic privacy.
+    Computer Vision is one of the fastest growing and most exciting AI disciplines in today’s academia and industry. This 10-week course is designed to open the doors for students who are interested in learning about the fundamental principles and important applications of computer vision.It covers topics ranging from basic operations on images to Image Segmentation. Students will be exposed to a number of real-world applications that are important to our daily lives.
+ 
+
+### 2. Deep Learning for Computer Vision
+   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; http://cs231n.stanford.edu/
+   * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; Stanford 
+   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Proficiency in Python, Calculus, Linear Algebra,Probability, Statistics   
+   * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Advanced
+   * **Course description**  
+    This course is a deep dive into the details of deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement and train their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.  
+        
+
+
+<!-- ### 3. Computer Vision
+   * **Link to course** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; https://faculty.cc.gatech.edu/~hays/compvision2021/
+   * **Offered By** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp; &nbsp; Georgia Tech 
+   * **Pre-Requisites** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Python programming, Calculus, Linear Algebra,Probability   
+   * **Level** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; &nbsp; Advanced
+   * **Course description**    
+        This course provides an introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding. We'll explore methods for depth recovery from stereo images, camera calibration, automated alignment, tracking, boundary detection, and recognition. We'll use both classical machine learning and deep learning to approach these problems. The focus of the course is to develop the intuitions and mathematics of the methods in lecture, and then to learn about the difference between theory and practice in the projects.  -->
        
 ####  Happy Learning  &nbsp; :thumbsup: :memo: 
+
+
+
+
 
 
 
