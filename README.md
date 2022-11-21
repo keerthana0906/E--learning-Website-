@@ -13,7 +13,7 @@ We added some previous assignments and soultions for these courses. -->
 
 ## Course List
 **S.No** | **Course Title** | **Link to course** | **Link to Assignment Solutions**
------------- | ------------- | ---------
+------------ | ------------- | --------- | -----------
 [1](#1-computer-vision--foundations-and-applications) | Computer Vision: Foundations and Applications | http://vision.stanford.edu/teaching/cs131_fall2122/ | [CS131 Solutions](https://github.com/StanfordVL/CS131_release)
 [2](#2-deep-learning-for-computer-vision) | Deep Learning for Computer Vision | http://cs231n.stanford.edu/ | [CS231 Solutions](https://github.com/mantasu/cs231n)
 <!-- [3](#3-computer-vision) | Computer Vision | https://faculty.cc.gatech.edu/~hays/compvision/ |  -->
